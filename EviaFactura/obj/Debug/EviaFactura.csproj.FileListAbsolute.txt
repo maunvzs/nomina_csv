@@ -1,0 +1,2 @@
+c:\users\ventas2\documents\visual studio 2013\Projects\EviaFactura\EviaFactura\bin\Debug\EviaFactura.exe.config
+c:\users\ventas2\documents\visual studio 2013\Projects\EviaFactura\EviaFactura\bin\Debug\EnviaNomina.exe.config
